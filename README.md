@@ -9,9 +9,8 @@ This repository showcases my expertise in automating business processes, specifi
 
 ## Contents
 - **Acceptance Criteria:** Detailed conditions that define the successful implementation of the automated workflow. This section ensures that all critical aspects of the incident reporting process are covered, from initial report creation to action taking.[View or Download the Acceptance Criteria PDF](Acceptance%20Criteria.pdf)
-- **Workflow Diagram:** A visual representation of the entire incident reporting process, showcasing the steps involved and how they interact within the automated system.![Sequence Diagram](Sequence%20Diagram.png)
-
-- **Sequence Diagram:** An illustration of the sequence of interactions and processes that occur during the incident reporting procedure, ensuring clarity in the flow of information and actions.
+- **Workflow Diagram:** A visual representation of the entire incident reporting process, showcasing the steps involved and how they interact within the automated system.![Workflow Diagram](Workflow%20Diagram.svg).
+- **Sequence Diagram:** An illustration of the sequence of interactions and processes that occur during the incident reporting procedure, ensuring clarity in the flow of information and actions.![Sequence Diagram](Sequence%20Diagram.png)
 
 
 ## How This Project Demonstrates My Skills
