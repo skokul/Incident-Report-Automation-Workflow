@@ -8,8 +8,8 @@ This repository showcases my expertise in automating business processes, specifi
 - **Objective:** Demonstrate my capability to create an efficient, reliable, and scalable workflow that addresses the needs of a modern business environment.
 
 ## Contents
-- **Acceptance Criteria:** Detailed conditions that define the successful implementation of the automated workflow. This section ensures that all critical aspects of the incident reporting process are covered, from initial report creation to action taking.
-- **Workflow Diagram:** A visual representation of the entire incident reporting process, showcasing the steps involved and how they interact within the automated system.
+- **Acceptance Criteria:** Detailed conditions that define the successful implementation of the automated workflow. This section ensures that all critical aspects of the incident reporting process are covered, from initial report creation to action taking.(Acceptance Criteria.pdf)
+- **Workflow Diagram:** A visual representation of the entire incident reporting process, showcasing the steps involved and how they interact within the automated system. 
 - **Sequence Diagram:** An illustration of the sequence of interactions and processes that occur during the incident reporting procedure, ensuring clarity in the flow of information and actions.
 
 
