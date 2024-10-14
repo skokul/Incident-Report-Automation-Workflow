@@ -11,7 +11,7 @@ This repository showcases my expertise in automating business processes, specifi
 - **Acceptance Criteria:** Detailed conditions that define the successful implementation of the automated workflow. This section ensures that all critical aspects of the incident reporting process are covered, from initial report creation to action taking. [View or Download the Acceptance Criteria PDF](Acceptance%20Criteria.pdf)
 - **BPMN Diagram:** A visual representation of the entire incident reporting process, showcasing the steps involved and how they interact within the automated system. ![BPMN Diagram](BPMN_Diagram.svg)
 - **Sequence Diagram:** An illustration of the sequence of interactions and processes that occur during the incident reporting procedure, ensuring clarity in the flow of information and actions. ![Sequence Diagram](Sequence_Diagram.png)
-- **Wireframes:** Interactive wireframes that demonstrate the user interface for the incident report automation system. [View the Wireframes in Figma](https://www.figma.com/proto/hjCSReQ7JaHQ1nOlcyGBW2/Incident-Report-Automation-Wireframes?node-id=1-10&t=6f825IPqxWj31GfG-1)
+
 
 ## How This Project Demonstrates My Skills
 - **Business Process Automation:** The project highlights my ability to identify process gaps and design workflows that improve efficiency and accuracy in reporting.
